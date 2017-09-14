@@ -1,0 +1,409 @@
+C:\Users\jeanc\Desktop\SIMONE\Loja\Loja\bin\roslyn\csc.exe
+C:\Users\jeanc\Desktop\SIMONE\Loja\Loja\bin\roslyn\csc.exe.config
+C:\Users\jeanc\Desktop\SIMONE\Loja\Loja\bin\roslyn\csc.rsp
+C:\Users\jeanc\Desktop\SIMONE\Loja\Loja\bin\roslyn\csi.exe
+C:\Users\jeanc\Desktop\SIMONE\Loja\Loja\bin\roslyn\csi.rsp
+C:\Users\jeanc\Desktop\SIMONE\Loja\Loja\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\jeanc\Desktop\SIMONE\Loja\Loja\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jeanc\Desktop\SIMONE\Loja\Loja\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\jeanc\Desktop\SIMONE\Loja\Loja\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\jeanc\Desktop\SIMONE\Loja\Loja\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\jeanc\Desktop\SIMONE\Loja\Loja\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\jeanc\Desktop\SIMONE\Loja\Loja\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\jeanc\Desktop\SIMONE\Loja\Loja\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\jeanc\Desktop\SIMONE\Loja\Loja\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\jeanc\Desktop\SIMONE\Loja\Loja\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\jeanc\Desktop\SIMONE\Loja\Loja\bin\roslyn\System.AppContext.dll
+C:\Users\jeanc\Desktop\SIMONE\Loja\Loja\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\jeanc\Desktop\SIMONE\Loja\Loja\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\jeanc\Desktop\SIMONE\Loja\Loja\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\jeanc\Desktop\SIMONE\Loja\Loja\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\jeanc\Desktop\SIMONE\Loja\Loja\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\jeanc\Desktop\SIMONE\Loja\Loja\bin\roslyn\vbc.exe
+C:\Users\jeanc\Desktop\SIMONE\Loja\Loja\bin\roslyn\vbc.exe.config
+C:\Users\jeanc\Desktop\SIMONE\Loja\Loja\bin\roslyn\vbc.rsp
+C:\Users\jeanc\Desktop\SIMONE\Loja\Loja\bin\roslyn\VBCSCompiler.exe
+C:\Users\jeanc\Desktop\SIMONE\Loja\Loja\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\jeanc\Desktop\SIMONE\Loja\Loja\bin\Loja.dll.config
+C:\Users\jeanc\Desktop\SIMONE\Loja\Loja\bin\Loja.dll
+C:\Users\jeanc\Desktop\SIMONE\Loja\Loja\bin\Loja.pdb
+C:\Users\jeanc\Desktop\SIMONE\Loja\Loja\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\jeanc\Desktop\SIMONE\Loja\Loja\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\jeanc\Desktop\SIMONE\Loja\Loja\obj\Debug\Loja.csprojResolveAssemblyReference.cache
+C:\Users\jeanc\Desktop\SIMONE\Loja\Loja\obj\Debug\Loja.dll
+C:\Users\jeanc\Desktop\SIMONE\Loja\Loja\obj\Debug\Loja.pdb
+C:\Users\u16394\Desktop\SIMONE\Loja\Loja\bin\roslyn\csc.exe
+C:\Users\u16394\Desktop\SIMONE\Loja\Loja\bin\roslyn\csc.exe.config
+C:\Users\u16394\Desktop\SIMONE\Loja\Loja\bin\roslyn\csc.rsp
+C:\Users\u16394\Desktop\SIMONE\Loja\Loja\bin\roslyn\csi.exe
+C:\Users\u16394\Desktop\SIMONE\Loja\Loja\bin\roslyn\csi.rsp
+C:\Users\u16394\Desktop\SIMONE\Loja\Loja\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\u16394\Desktop\SIMONE\Loja\Loja\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\u16394\Desktop\SIMONE\Loja\Loja\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\u16394\Desktop\SIMONE\Loja\Loja\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\u16394\Desktop\SIMONE\Loja\Loja\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\u16394\Desktop\SIMONE\Loja\Loja\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\u16394\Desktop\SIMONE\Loja\Loja\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\u16394\Desktop\SIMONE\Loja\Loja\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\u16394\Desktop\SIMONE\Loja\Loja\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\u16394\Desktop\SIMONE\Loja\Loja\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\u16394\Desktop\SIMONE\Loja\Loja\bin\roslyn\System.AppContext.dll
+C:\Users\u16394\Desktop\SIMONE\Loja\Loja\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\u16394\Desktop\SIMONE\Loja\Loja\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\u16394\Desktop\SIMONE\Loja\Loja\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\u16394\Desktop\SIMONE\Loja\Loja\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\u16394\Desktop\SIMONE\Loja\Loja\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\u16394\Desktop\SIMONE\Loja\Loja\bin\roslyn\vbc.exe
+C:\Users\u16394\Desktop\SIMONE\Loja\Loja\bin\roslyn\vbc.exe.config
+C:\Users\u16394\Desktop\SIMONE\Loja\Loja\bin\roslyn\vbc.rsp
+C:\Users\u16394\Desktop\SIMONE\Loja\Loja\bin\roslyn\VBCSCompiler.exe
+C:\Users\u16394\Desktop\SIMONE\Loja\Loja\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\u16394\Desktop\SIMONE\Loja\Loja\bin\Loja.dll.config
+C:\Users\u16394\Desktop\SIMONE\Loja\Loja\bin\Loja.dll
+C:\Users\u16394\Desktop\SIMONE\Loja\Loja\bin\Loja.pdb
+C:\Users\u16394\Desktop\SIMONE\Loja\Loja\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\u16394\Desktop\SIMONE\Loja\Loja\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\u16394\Desktop\SIMONE\Loja\Loja\obj\Debug\Loja.csprojResolveAssemblyReference.cache
+C:\Users\u16394\Desktop\SIMONE\Loja\Loja\obj\Debug\Loja.dll
+C:\Users\u16394\Desktop\SIMONE\Loja\Loja\obj\Debug\Loja.pdb
+C:\Users\jean\Google Drive\SIMONE\Loja\Loja\bin\roslyn\csc.exe
+C:\Users\jean\Google Drive\SIMONE\Loja\Loja\bin\roslyn\csc.exe.config
+C:\Users\jean\Google Drive\SIMONE\Loja\Loja\bin\roslyn\csc.rsp
+C:\Users\jean\Google Drive\SIMONE\Loja\Loja\bin\roslyn\csi.exe
+C:\Users\jean\Google Drive\SIMONE\Loja\Loja\bin\roslyn\csi.rsp
+C:\Users\jean\Google Drive\SIMONE\Loja\Loja\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\jean\Google Drive\SIMONE\Loja\Loja\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jean\Google Drive\SIMONE\Loja\Loja\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\jean\Google Drive\SIMONE\Loja\Loja\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\jean\Google Drive\SIMONE\Loja\Loja\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\jean\Google Drive\SIMONE\Loja\Loja\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\jean\Google Drive\SIMONE\Loja\Loja\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\jean\Google Drive\SIMONE\Loja\Loja\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\jean\Google Drive\SIMONE\Loja\Loja\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\jean\Google Drive\SIMONE\Loja\Loja\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\jean\Google Drive\SIMONE\Loja\Loja\bin\roslyn\System.AppContext.dll
+C:\Users\jean\Google Drive\SIMONE\Loja\Loja\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\jean\Google Drive\SIMONE\Loja\Loja\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\jean\Google Drive\SIMONE\Loja\Loja\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\jean\Google Drive\SIMONE\Loja\Loja\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\jean\Google Drive\SIMONE\Loja\Loja\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\jean\Google Drive\SIMONE\Loja\Loja\bin\roslyn\vbc.exe
+C:\Users\jean\Google Drive\SIMONE\Loja\Loja\bin\roslyn\vbc.exe.config
+C:\Users\jean\Google Drive\SIMONE\Loja\Loja\bin\roslyn\vbc.rsp
+C:\Users\jean\Google Drive\SIMONE\Loja\Loja\bin\roslyn\VBCSCompiler.exe
+C:\Users\jean\Google Drive\SIMONE\Loja\Loja\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\jean\Google Drive\SIMONE\Loja\Loja\bin\Loja.dll.config
+C:\Users\jean\Google Drive\SIMONE\Loja\Loja\bin\Loja.dll
+C:\Users\jean\Google Drive\SIMONE\Loja\Loja\bin\Loja.pdb
+C:\Users\jean\Google Drive\SIMONE\Loja\Loja\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\jean\Google Drive\SIMONE\Loja\Loja\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\jean\Google Drive\SIMONE\Loja\Loja\obj\Debug\Loja.csprojResolveAssemblyReference.cache
+C:\Users\jean\Google Drive\SIMONE\Loja\Loja\obj\Debug\Loja.dll
+C:\Users\jean\Google Drive\SIMONE\Loja\Loja\obj\Debug\Loja.pdb
+C:\Users\jean\Desktop\loja\projetoLoja\Loja\Loja\bin\roslyn\csc.exe
+C:\Users\jean\Desktop\loja\projetoLoja\Loja\Loja\bin\roslyn\csc.exe.config
+C:\Users\jean\Desktop\loja\projetoLoja\Loja\Loja\bin\roslyn\csc.rsp
+C:\Users\jean\Desktop\loja\projetoLoja\Loja\Loja\bin\roslyn\csi.exe
+C:\Users\jean\Desktop\loja\projetoLoja\Loja\Loja\bin\roslyn\csi.rsp
+C:\Users\jean\Desktop\loja\projetoLoja\Loja\Loja\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\jean\Desktop\loja\projetoLoja\Loja\Loja\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jean\Desktop\loja\projetoLoja\Loja\Loja\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\jean\Desktop\loja\projetoLoja\Loja\Loja\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\jean\Desktop\loja\projetoLoja\Loja\Loja\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\jean\Desktop\loja\projetoLoja\Loja\Loja\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\jean\Desktop\loja\projetoLoja\Loja\Loja\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\jean\Desktop\loja\projetoLoja\Loja\Loja\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\jean\Desktop\loja\projetoLoja\Loja\Loja\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\jean\Desktop\loja\projetoLoja\Loja\Loja\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\jean\Desktop\loja\projetoLoja\Loja\Loja\bin\roslyn\System.AppContext.dll
+C:\Users\jean\Desktop\loja\projetoLoja\Loja\Loja\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\jean\Desktop\loja\projetoLoja\Loja\Loja\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\jean\Desktop\loja\projetoLoja\Loja\Loja\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\jean\Desktop\loja\projetoLoja\Loja\Loja\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\jean\Desktop\loja\projetoLoja\Loja\Loja\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\jean\Desktop\loja\projetoLoja\Loja\Loja\bin\roslyn\vbc.exe
+C:\Users\jean\Desktop\loja\projetoLoja\Loja\Loja\bin\roslyn\vbc.exe.config
+C:\Users\jean\Desktop\loja\projetoLoja\Loja\Loja\bin\roslyn\vbc.rsp
+C:\Users\jean\Desktop\loja\projetoLoja\Loja\Loja\bin\roslyn\VBCSCompiler.exe
+C:\Users\jean\Desktop\loja\projetoLoja\Loja\Loja\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\jean\Desktop\loja\projetoLoja\Loja\Loja\bin\Loja.dll.config
+C:\Users\jean\Desktop\loja\projetoLoja\Loja\Loja\bin\Loja.dll
+C:\Users\jean\Desktop\loja\projetoLoja\Loja\Loja\bin\Loja.pdb
+C:\Users\jean\Desktop\loja\projetoLoja\Loja\Loja\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\jean\Desktop\loja\projetoLoja\Loja\Loja\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\jean\Desktop\loja\projetoLoja\Loja\Loja\obj\Debug\Loja.csprojResolveAssemblyReference.cache
+C:\Users\jean\Desktop\loja\projetoLoja\Loja\Loja\obj\Debug\Loja.dll
+C:\Users\jean\Desktop\loja\projetoLoja\Loja\Loja\obj\Debug\Loja.pdb
+C:\Users\u16394\Desktop\gitloja\projetoLoja\Loja\Loja\bin\roslyn\csc.exe
+C:\Users\u16394\Desktop\gitloja\projetoLoja\Loja\Loja\bin\roslyn\csc.exe.config
+C:\Users\u16394\Desktop\gitloja\projetoLoja\Loja\Loja\bin\roslyn\csc.rsp
+C:\Users\u16394\Desktop\gitloja\projetoLoja\Loja\Loja\bin\roslyn\csi.exe
+C:\Users\u16394\Desktop\gitloja\projetoLoja\Loja\Loja\bin\roslyn\csi.rsp
+C:\Users\u16394\Desktop\gitloja\projetoLoja\Loja\Loja\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\u16394\Desktop\gitloja\projetoLoja\Loja\Loja\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\u16394\Desktop\gitloja\projetoLoja\Loja\Loja\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\u16394\Desktop\gitloja\projetoLoja\Loja\Loja\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\u16394\Desktop\gitloja\projetoLoja\Loja\Loja\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\u16394\Desktop\gitloja\projetoLoja\Loja\Loja\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\u16394\Desktop\gitloja\projetoLoja\Loja\Loja\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\u16394\Desktop\gitloja\projetoLoja\Loja\Loja\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\u16394\Desktop\gitloja\projetoLoja\Loja\Loja\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\u16394\Desktop\gitloja\projetoLoja\Loja\Loja\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\u16394\Desktop\gitloja\projetoLoja\Loja\Loja\bin\roslyn\System.AppContext.dll
+C:\Users\u16394\Desktop\gitloja\projetoLoja\Loja\Loja\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\u16394\Desktop\gitloja\projetoLoja\Loja\Loja\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\u16394\Desktop\gitloja\projetoLoja\Loja\Loja\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\u16394\Desktop\gitloja\projetoLoja\Loja\Loja\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\u16394\Desktop\gitloja\projetoLoja\Loja\Loja\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\u16394\Desktop\gitloja\projetoLoja\Loja\Loja\bin\roslyn\vbc.exe
+C:\Users\u16394\Desktop\gitloja\projetoLoja\Loja\Loja\bin\roslyn\vbc.exe.config
+C:\Users\u16394\Desktop\gitloja\projetoLoja\Loja\Loja\bin\roslyn\vbc.rsp
+C:\Users\u16394\Desktop\gitloja\projetoLoja\Loja\Loja\bin\roslyn\VBCSCompiler.exe
+C:\Users\u16394\Desktop\gitloja\projetoLoja\Loja\Loja\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\u16394\Desktop\gitloja\projetoLoja\Loja\Loja\bin\Loja.dll.config
+C:\Users\u16394\Desktop\gitloja\projetoLoja\Loja\Loja\bin\Loja.dll
+C:\Users\u16394\Desktop\gitloja\projetoLoja\Loja\Loja\bin\Loja.pdb
+C:\Users\u16394\Desktop\gitloja\projetoLoja\Loja\Loja\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\u16394\Desktop\gitloja\projetoLoja\Loja\Loja\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\u16394\Desktop\gitloja\projetoLoja\Loja\Loja\obj\Debug\Loja.csprojResolveAssemblyReference.cache
+C:\Users\u16394\Desktop\gitloja\projetoLoja\Loja\Loja\obj\Debug\Loja.dll
+C:\Users\u16394\Desktop\gitloja\projetoLoja\Loja\Loja\obj\Debug\Loja.pdb
+C:\Users\u16407\Desktop\projetoLoja-master\Loja\Loja\bin\roslyn\csc.exe
+C:\Users\u16407\Desktop\projetoLoja-master\Loja\Loja\bin\roslyn\csc.exe.config
+C:\Users\u16407\Desktop\projetoLoja-master\Loja\Loja\bin\roslyn\csc.rsp
+C:\Users\u16407\Desktop\projetoLoja-master\Loja\Loja\bin\roslyn\csi.exe
+C:\Users\u16407\Desktop\projetoLoja-master\Loja\Loja\bin\roslyn\csi.rsp
+C:\Users\u16407\Desktop\projetoLoja-master\Loja\Loja\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\u16407\Desktop\projetoLoja-master\Loja\Loja\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\u16407\Desktop\projetoLoja-master\Loja\Loja\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\u16407\Desktop\projetoLoja-master\Loja\Loja\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\u16407\Desktop\projetoLoja-master\Loja\Loja\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\u16407\Desktop\projetoLoja-master\Loja\Loja\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\u16407\Desktop\projetoLoja-master\Loja\Loja\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\u16407\Desktop\projetoLoja-master\Loja\Loja\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\u16407\Desktop\projetoLoja-master\Loja\Loja\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\u16407\Desktop\projetoLoja-master\Loja\Loja\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\u16407\Desktop\projetoLoja-master\Loja\Loja\bin\roslyn\System.AppContext.dll
+C:\Users\u16407\Desktop\projetoLoja-master\Loja\Loja\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\u16407\Desktop\projetoLoja-master\Loja\Loja\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\u16407\Desktop\projetoLoja-master\Loja\Loja\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\u16407\Desktop\projetoLoja-master\Loja\Loja\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\u16407\Desktop\projetoLoja-master\Loja\Loja\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\u16407\Desktop\projetoLoja-master\Loja\Loja\bin\roslyn\vbc.exe
+C:\Users\u16407\Desktop\projetoLoja-master\Loja\Loja\bin\roslyn\vbc.exe.config
+C:\Users\u16407\Desktop\projetoLoja-master\Loja\Loja\bin\roslyn\vbc.rsp
+C:\Users\u16407\Desktop\projetoLoja-master\Loja\Loja\bin\roslyn\VBCSCompiler.exe
+C:\Users\u16407\Desktop\projetoLoja-master\Loja\Loja\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\u16407\Desktop\projetoLoja-master\Loja\Loja\bin\Loja.dll.config
+C:\Users\u16407\Desktop\projetoLoja-master\Loja\Loja\bin\Loja.dll
+C:\Users\u16407\Desktop\projetoLoja-master\Loja\Loja\bin\Loja.pdb
+C:\Users\u16407\Desktop\projetoLoja-master\Loja\Loja\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\u16407\Desktop\projetoLoja-master\Loja\Loja\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\u16407\Desktop\projetoLoja-master\Loja\Loja\obj\Debug\Loja.csprojResolveAssemblyReference.cache
+C:\Users\u16407\Desktop\projetoLoja-master\Loja\Loja\obj\Debug\Loja.dll
+C:\Users\u16407\Desktop\projetoLoja-master\Loja\Loja\obj\Debug\Loja.pdb
+C:\Users\jeanc\Google Drive\Trabalhos atualizados\SIMONE_MARCIA\projetoLoja-master\Loja\Loja\bin\roslyn\csc.exe
+C:\Users\jeanc\Google Drive\Trabalhos atualizados\SIMONE_MARCIA\projetoLoja-master\Loja\Loja\bin\roslyn\csc.exe.config
+C:\Users\jeanc\Google Drive\Trabalhos atualizados\SIMONE_MARCIA\projetoLoja-master\Loja\Loja\bin\roslyn\csc.rsp
+C:\Users\jeanc\Google Drive\Trabalhos atualizados\SIMONE_MARCIA\projetoLoja-master\Loja\Loja\bin\roslyn\csi.exe
+C:\Users\jeanc\Google Drive\Trabalhos atualizados\SIMONE_MARCIA\projetoLoja-master\Loja\Loja\bin\roslyn\csi.rsp
+C:\Users\jeanc\Google Drive\Trabalhos atualizados\SIMONE_MARCIA\projetoLoja-master\Loja\Loja\bin\roslyn\desktop.ini
+C:\Users\jeanc\Google Drive\Trabalhos atualizados\SIMONE_MARCIA\projetoLoja-master\Loja\Loja\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\jeanc\Google Drive\Trabalhos atualizados\SIMONE_MARCIA\projetoLoja-master\Loja\Loja\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jeanc\Google Drive\Trabalhos atualizados\SIMONE_MARCIA\projetoLoja-master\Loja\Loja\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\jeanc\Google Drive\Trabalhos atualizados\SIMONE_MARCIA\projetoLoja-master\Loja\Loja\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\jeanc\Google Drive\Trabalhos atualizados\SIMONE_MARCIA\projetoLoja-master\Loja\Loja\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\jeanc\Google Drive\Trabalhos atualizados\SIMONE_MARCIA\projetoLoja-master\Loja\Loja\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\jeanc\Google Drive\Trabalhos atualizados\SIMONE_MARCIA\projetoLoja-master\Loja\Loja\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\jeanc\Google Drive\Trabalhos atualizados\SIMONE_MARCIA\projetoLoja-master\Loja\Loja\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\jeanc\Google Drive\Trabalhos atualizados\SIMONE_MARCIA\projetoLoja-master\Loja\Loja\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\jeanc\Google Drive\Trabalhos atualizados\SIMONE_MARCIA\projetoLoja-master\Loja\Loja\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\jeanc\Google Drive\Trabalhos atualizados\SIMONE_MARCIA\projetoLoja-master\Loja\Loja\bin\roslyn\System.AppContext.dll
+C:\Users\jeanc\Google Drive\Trabalhos atualizados\SIMONE_MARCIA\projetoLoja-master\Loja\Loja\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\jeanc\Google Drive\Trabalhos atualizados\SIMONE_MARCIA\projetoLoja-master\Loja\Loja\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\jeanc\Google Drive\Trabalhos atualizados\SIMONE_MARCIA\projetoLoja-master\Loja\Loja\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\jeanc\Google Drive\Trabalhos atualizados\SIMONE_MARCIA\projetoLoja-master\Loja\Loja\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\jeanc\Google Drive\Trabalhos atualizados\SIMONE_MARCIA\projetoLoja-master\Loja\Loja\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\jeanc\Google Drive\Trabalhos atualizados\SIMONE_MARCIA\projetoLoja-master\Loja\Loja\bin\roslyn\vbc.exe
+C:\Users\jeanc\Google Drive\Trabalhos atualizados\SIMONE_MARCIA\projetoLoja-master\Loja\Loja\bin\roslyn\vbc.exe.config
+C:\Users\jeanc\Google Drive\Trabalhos atualizados\SIMONE_MARCIA\projetoLoja-master\Loja\Loja\bin\roslyn\vbc.rsp
+C:\Users\jeanc\Google Drive\Trabalhos atualizados\SIMONE_MARCIA\projetoLoja-master\Loja\Loja\bin\roslyn\VBCSCompiler.exe
+C:\Users\jeanc\Google Drive\Trabalhos atualizados\SIMONE_MARCIA\projetoLoja-master\Loja\Loja\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\jeanc\Google Drive\Trabalhos atualizados\SIMONE_MARCIA\projetoLoja-master\Loja\Loja\bin\Loja.dll.config
+C:\Users\jeanc\Google Drive\Trabalhos atualizados\SIMONE_MARCIA\projetoLoja-master\Loja\Loja\bin\Loja.dll
+C:\Users\jeanc\Google Drive\Trabalhos atualizados\SIMONE_MARCIA\projetoLoja-master\Loja\Loja\bin\Loja.pdb
+C:\Users\jeanc\Google Drive\Trabalhos atualizados\SIMONE_MARCIA\projetoLoja-master\Loja\Loja\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\jeanc\Google Drive\Trabalhos atualizados\SIMONE_MARCIA\projetoLoja-master\Loja\Loja\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\jeanc\Google Drive\Trabalhos atualizados\SIMONE_MARCIA\projetoLoja-master\Loja\Loja\obj\Debug\Loja.csprojResolveAssemblyReference.cache
+C:\Users\jeanc\Google Drive\Trabalhos atualizados\SIMONE_MARCIA\projetoLoja-master\Loja\Loja\obj\Debug\Loja.dll
+C:\Users\jeanc\Google Drive\Trabalhos atualizados\SIMONE_MARCIA\projetoLoja-master\Loja\Loja\obj\Debug\Loja.pdb
+C:\Users\Pedro\Desktop\projetoLoja-master\Loja\Loja\bin\roslyn\csc.exe
+C:\Users\Pedro\Desktop\projetoLoja-master\Loja\Loja\bin\roslyn\csc.exe.config
+C:\Users\Pedro\Desktop\projetoLoja-master\Loja\Loja\bin\roslyn\csc.rsp
+C:\Users\Pedro\Desktop\projetoLoja-master\Loja\Loja\bin\roslyn\csi.exe
+C:\Users\Pedro\Desktop\projetoLoja-master\Loja\Loja\bin\roslyn\csi.rsp
+C:\Users\Pedro\Desktop\projetoLoja-master\Loja\Loja\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Pedro\Desktop\projetoLoja-master\Loja\Loja\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Pedro\Desktop\projetoLoja-master\Loja\Loja\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Pedro\Desktop\projetoLoja-master\Loja\Loja\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Pedro\Desktop\projetoLoja-master\Loja\Loja\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Pedro\Desktop\projetoLoja-master\Loja\Loja\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Pedro\Desktop\projetoLoja-master\Loja\Loja\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Pedro\Desktop\projetoLoja-master\Loja\Loja\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Pedro\Desktop\projetoLoja-master\Loja\Loja\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Pedro\Desktop\projetoLoja-master\Loja\Loja\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Pedro\Desktop\projetoLoja-master\Loja\Loja\bin\roslyn\System.AppContext.dll
+C:\Users\Pedro\Desktop\projetoLoja-master\Loja\Loja\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Pedro\Desktop\projetoLoja-master\Loja\Loja\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Pedro\Desktop\projetoLoja-master\Loja\Loja\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Pedro\Desktop\projetoLoja-master\Loja\Loja\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Pedro\Desktop\projetoLoja-master\Loja\Loja\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Pedro\Desktop\projetoLoja-master\Loja\Loja\bin\roslyn\vbc.exe
+C:\Users\Pedro\Desktop\projetoLoja-master\Loja\Loja\bin\roslyn\vbc.exe.config
+C:\Users\Pedro\Desktop\projetoLoja-master\Loja\Loja\bin\roslyn\vbc.rsp
+C:\Users\Pedro\Desktop\projetoLoja-master\Loja\Loja\bin\roslyn\VBCSCompiler.exe
+C:\Users\Pedro\Desktop\projetoLoja-master\Loja\Loja\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Pedro\Desktop\projetoLoja-master\Loja\Loja\bin\Loja.dll.config
+C:\Users\Pedro\Desktop\projetoLoja-master\Loja\Loja\bin\Loja.dll
+C:\Users\Pedro\Desktop\projetoLoja-master\Loja\Loja\bin\Loja.pdb
+C:\Users\Pedro\Desktop\projetoLoja-master\Loja\Loja\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Pedro\Desktop\projetoLoja-master\Loja\Loja\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Pedro\Desktop\projetoLoja-master\Loja\Loja\obj\Debug\Loja.csprojResolveAssemblyReference.cache
+C:\Users\Pedro\Desktop\projetoLoja-master\Loja\Loja\obj\Debug\Loja.dll
+C:\Users\Pedro\Desktop\projetoLoja-master\Loja\Loja\obj\Debug\Loja.pdb
+C:\Users\jeanc\Desktop\projetoLoja-master\Loja\Loja\bin\roslyn\csc.exe
+C:\Users\jeanc\Desktop\projetoLoja-master\Loja\Loja\bin\roslyn\csc.exe.config
+C:\Users\jeanc\Desktop\projetoLoja-master\Loja\Loja\bin\roslyn\csc.rsp
+C:\Users\jeanc\Desktop\projetoLoja-master\Loja\Loja\bin\roslyn\csi.exe
+C:\Users\jeanc\Desktop\projetoLoja-master\Loja\Loja\bin\roslyn\csi.rsp
+C:\Users\jeanc\Desktop\projetoLoja-master\Loja\Loja\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\jeanc\Desktop\projetoLoja-master\Loja\Loja\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jeanc\Desktop\projetoLoja-master\Loja\Loja\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\jeanc\Desktop\projetoLoja-master\Loja\Loja\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\jeanc\Desktop\projetoLoja-master\Loja\Loja\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\jeanc\Desktop\projetoLoja-master\Loja\Loja\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\jeanc\Desktop\projetoLoja-master\Loja\Loja\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\jeanc\Desktop\projetoLoja-master\Loja\Loja\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\jeanc\Desktop\projetoLoja-master\Loja\Loja\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\jeanc\Desktop\projetoLoja-master\Loja\Loja\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\jeanc\Desktop\projetoLoja-master\Loja\Loja\bin\roslyn\System.AppContext.dll
+C:\Users\jeanc\Desktop\projetoLoja-master\Loja\Loja\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\jeanc\Desktop\projetoLoja-master\Loja\Loja\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\jeanc\Desktop\projetoLoja-master\Loja\Loja\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\jeanc\Desktop\projetoLoja-master\Loja\Loja\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\jeanc\Desktop\projetoLoja-master\Loja\Loja\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\jeanc\Desktop\projetoLoja-master\Loja\Loja\bin\roslyn\vbc.exe
+C:\Users\jeanc\Desktop\projetoLoja-master\Loja\Loja\bin\roslyn\vbc.exe.config
+C:\Users\jeanc\Desktop\projetoLoja-master\Loja\Loja\bin\roslyn\vbc.rsp
+C:\Users\jeanc\Desktop\projetoLoja-master\Loja\Loja\bin\roslyn\VBCSCompiler.exe
+C:\Users\jeanc\Desktop\projetoLoja-master\Loja\Loja\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\jeanc\Desktop\projetoLoja-master\Loja\Loja\bin\Loja.dll.config
+C:\Users\jeanc\Desktop\projetoLoja-master\Loja\Loja\bin\Loja.dll
+C:\Users\jeanc\Desktop\projetoLoja-master\Loja\Loja\bin\Loja.pdb
+C:\Users\jeanc\Desktop\projetoLoja-master\Loja\Loja\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\jeanc\Desktop\projetoLoja-master\Loja\Loja\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\jeanc\Desktop\projetoLoja-master\Loja\Loja\obj\Debug\Loja.csprojResolveAssemblyReference.cache
+C:\Users\jeanc\Desktop\projetoLoja-master\Loja\Loja\obj\Debug\Loja.dll
+C:\Users\jeanc\Desktop\projetoLoja-master\Loja\Loja\obj\Debug\Loja.pdb
+C:\Users\jeanc\Desktop\git\siteasp\projetoLoja-master\Loja\Loja\bin\roslyn\csc.exe
+C:\Users\jeanc\Desktop\git\siteasp\projetoLoja-master\Loja\Loja\bin\roslyn\csc.exe.config
+C:\Users\jeanc\Desktop\git\siteasp\projetoLoja-master\Loja\Loja\bin\roslyn\csc.rsp
+C:\Users\jeanc\Desktop\git\siteasp\projetoLoja-master\Loja\Loja\bin\roslyn\csi.exe
+C:\Users\jeanc\Desktop\git\siteasp\projetoLoja-master\Loja\Loja\bin\roslyn\csi.rsp
+C:\Users\jeanc\Desktop\git\siteasp\projetoLoja-master\Loja\Loja\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\jeanc\Desktop\git\siteasp\projetoLoja-master\Loja\Loja\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jeanc\Desktop\git\siteasp\projetoLoja-master\Loja\Loja\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\jeanc\Desktop\git\siteasp\projetoLoja-master\Loja\Loja\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\jeanc\Desktop\git\siteasp\projetoLoja-master\Loja\Loja\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\jeanc\Desktop\git\siteasp\projetoLoja-master\Loja\Loja\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\jeanc\Desktop\git\siteasp\projetoLoja-master\Loja\Loja\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\jeanc\Desktop\git\siteasp\projetoLoja-master\Loja\Loja\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\jeanc\Desktop\git\siteasp\projetoLoja-master\Loja\Loja\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\jeanc\Desktop\git\siteasp\projetoLoja-master\Loja\Loja\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\jeanc\Desktop\git\siteasp\projetoLoja-master\Loja\Loja\bin\roslyn\System.AppContext.dll
+C:\Users\jeanc\Desktop\git\siteasp\projetoLoja-master\Loja\Loja\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\jeanc\Desktop\git\siteasp\projetoLoja-master\Loja\Loja\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\jeanc\Desktop\git\siteasp\projetoLoja-master\Loja\Loja\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\jeanc\Desktop\git\siteasp\projetoLoja-master\Loja\Loja\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\jeanc\Desktop\git\siteasp\projetoLoja-master\Loja\Loja\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\jeanc\Desktop\git\siteasp\projetoLoja-master\Loja\Loja\bin\roslyn\vbc.exe
+C:\Users\jeanc\Desktop\git\siteasp\projetoLoja-master\Loja\Loja\bin\roslyn\vbc.exe.config
+C:\Users\jeanc\Desktop\git\siteasp\projetoLoja-master\Loja\Loja\bin\roslyn\vbc.rsp
+C:\Users\jeanc\Desktop\git\siteasp\projetoLoja-master\Loja\Loja\bin\roslyn\VBCSCompiler.exe
+C:\Users\jeanc\Desktop\git\siteasp\projetoLoja-master\Loja\Loja\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\jeanc\Desktop\git\siteasp\projetoLoja-master\Loja\Loja\bin\Loja.dll.config
+C:\Users\jeanc\Desktop\git\siteasp\projetoLoja-master\Loja\Loja\bin\Loja.dll
+C:\Users\jeanc\Desktop\git\siteasp\projetoLoja-master\Loja\Loja\bin\Loja.pdb
+C:\Users\jeanc\Desktop\git\siteasp\projetoLoja-master\Loja\Loja\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\jeanc\Desktop\git\siteasp\projetoLoja-master\Loja\Loja\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\jeanc\Desktop\git\siteasp\projetoLoja-master\Loja\Loja\obj\Debug\Loja.csprojResolveAssemblyReference.cache
+C:\Users\jeanc\Desktop\git\siteasp\projetoLoja-master\Loja\Loja\obj\Debug\Loja.dll
+C:\Users\jeanc\Desktop\git\siteasp\projetoLoja-master\Loja\Loja\obj\Debug\Loja.pdb
+C:\Users\Pedro\Desktop\Jeancsilva20-siteasp-59ac3626fd67\projetoLoja-master\Loja\Loja\bin\roslyn\csc.exe
+C:\Users\Pedro\Desktop\Jeancsilva20-siteasp-59ac3626fd67\projetoLoja-master\Loja\Loja\bin\roslyn\csc.exe.config
+C:\Users\Pedro\Desktop\Jeancsilva20-siteasp-59ac3626fd67\projetoLoja-master\Loja\Loja\bin\roslyn\csc.rsp
+C:\Users\Pedro\Desktop\Jeancsilva20-siteasp-59ac3626fd67\projetoLoja-master\Loja\Loja\bin\roslyn\csi.exe
+C:\Users\Pedro\Desktop\Jeancsilva20-siteasp-59ac3626fd67\projetoLoja-master\Loja\Loja\bin\roslyn\csi.rsp
+C:\Users\Pedro\Desktop\Jeancsilva20-siteasp-59ac3626fd67\projetoLoja-master\Loja\Loja\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Pedro\Desktop\Jeancsilva20-siteasp-59ac3626fd67\projetoLoja-master\Loja\Loja\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Pedro\Desktop\Jeancsilva20-siteasp-59ac3626fd67\projetoLoja-master\Loja\Loja\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Pedro\Desktop\Jeancsilva20-siteasp-59ac3626fd67\projetoLoja-master\Loja\Loja\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Pedro\Desktop\Jeancsilva20-siteasp-59ac3626fd67\projetoLoja-master\Loja\Loja\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Pedro\Desktop\Jeancsilva20-siteasp-59ac3626fd67\projetoLoja-master\Loja\Loja\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Pedro\Desktop\Jeancsilva20-siteasp-59ac3626fd67\projetoLoja-master\Loja\Loja\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Pedro\Desktop\Jeancsilva20-siteasp-59ac3626fd67\projetoLoja-master\Loja\Loja\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Pedro\Desktop\Jeancsilva20-siteasp-59ac3626fd67\projetoLoja-master\Loja\Loja\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Pedro\Desktop\Jeancsilva20-siteasp-59ac3626fd67\projetoLoja-master\Loja\Loja\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Pedro\Desktop\Jeancsilva20-siteasp-59ac3626fd67\projetoLoja-master\Loja\Loja\bin\roslyn\System.AppContext.dll
+C:\Users\Pedro\Desktop\Jeancsilva20-siteasp-59ac3626fd67\projetoLoja-master\Loja\Loja\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Pedro\Desktop\Jeancsilva20-siteasp-59ac3626fd67\projetoLoja-master\Loja\Loja\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Pedro\Desktop\Jeancsilva20-siteasp-59ac3626fd67\projetoLoja-master\Loja\Loja\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Pedro\Desktop\Jeancsilva20-siteasp-59ac3626fd67\projetoLoja-master\Loja\Loja\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Pedro\Desktop\Jeancsilva20-siteasp-59ac3626fd67\projetoLoja-master\Loja\Loja\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Pedro\Desktop\Jeancsilva20-siteasp-59ac3626fd67\projetoLoja-master\Loja\Loja\bin\roslyn\vbc.exe
+C:\Users\Pedro\Desktop\Jeancsilva20-siteasp-59ac3626fd67\projetoLoja-master\Loja\Loja\bin\roslyn\vbc.exe.config
+C:\Users\Pedro\Desktop\Jeancsilva20-siteasp-59ac3626fd67\projetoLoja-master\Loja\Loja\bin\roslyn\vbc.rsp
+C:\Users\Pedro\Desktop\Jeancsilva20-siteasp-59ac3626fd67\projetoLoja-master\Loja\Loja\bin\roslyn\VBCSCompiler.exe
+C:\Users\Pedro\Desktop\Jeancsilva20-siteasp-59ac3626fd67\projetoLoja-master\Loja\Loja\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Pedro\Desktop\Jeancsilva20-siteasp-59ac3626fd67\projetoLoja-master\Loja\Loja\bin\Loja.dll.config
+C:\Users\Pedro\Desktop\Jeancsilva20-siteasp-59ac3626fd67\projetoLoja-master\Loja\Loja\bin\Loja.dll
+C:\Users\Pedro\Desktop\Jeancsilva20-siteasp-59ac3626fd67\projetoLoja-master\Loja\Loja\bin\Loja.pdb
+C:\Users\Pedro\Desktop\Jeancsilva20-siteasp-59ac3626fd67\projetoLoja-master\Loja\Loja\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Pedro\Desktop\Jeancsilva20-siteasp-59ac3626fd67\projetoLoja-master\Loja\Loja\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Pedro\Desktop\Jeancsilva20-siteasp-59ac3626fd67\projetoLoja-master\Loja\Loja\obj\Debug\Loja.csprojResolveAssemblyReference.cache
+C:\Users\Pedro\Desktop\Jeancsilva20-siteasp-59ac3626fd67\projetoLoja-master\Loja\Loja\obj\Debug\Loja.dll
+C:\Users\Pedro\Desktop\Jeancsilva20-siteasp-59ac3626fd67\projetoLoja-master\Loja\Loja\obj\Debug\Loja.pdb
+E:\COTUCA\3º semestre\ASP\loja com prodoutos\projetoLoja-master\Loja\Loja\bin\roslyn\csc.exe
+E:\COTUCA\3º semestre\ASP\loja com prodoutos\projetoLoja-master\Loja\Loja\bin\roslyn\csc.exe.config
+E:\COTUCA\3º semestre\ASP\loja com prodoutos\projetoLoja-master\Loja\Loja\bin\roslyn\csc.rsp
+E:\COTUCA\3º semestre\ASP\loja com prodoutos\projetoLoja-master\Loja\Loja\bin\roslyn\csi.exe
+E:\COTUCA\3º semestre\ASP\loja com prodoutos\projetoLoja-master\Loja\Loja\bin\roslyn\csi.rsp
+E:\COTUCA\3º semestre\ASP\loja com prodoutos\projetoLoja-master\Loja\Loja\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\COTUCA\3º semestre\ASP\loja com prodoutos\projetoLoja-master\Loja\Loja\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\COTUCA\3º semestre\ASP\loja com prodoutos\projetoLoja-master\Loja\Loja\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\COTUCA\3º semestre\ASP\loja com prodoutos\projetoLoja-master\Loja\Loja\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\COTUCA\3º semestre\ASP\loja com prodoutos\projetoLoja-master\Loja\Loja\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\COTUCA\3º semestre\ASP\loja com prodoutos\projetoLoja-master\Loja\Loja\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\COTUCA\3º semestre\ASP\loja com prodoutos\projetoLoja-master\Loja\Loja\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\COTUCA\3º semestre\ASP\loja com prodoutos\projetoLoja-master\Loja\Loja\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\COTUCA\3º semestre\ASP\loja com prodoutos\projetoLoja-master\Loja\Loja\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\COTUCA\3º semestre\ASP\loja com prodoutos\projetoLoja-master\Loja\Loja\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\COTUCA\3º semestre\ASP\loja com prodoutos\projetoLoja-master\Loja\Loja\bin\roslyn\System.AppContext.dll
+E:\COTUCA\3º semestre\ASP\loja com prodoutos\projetoLoja-master\Loja\Loja\bin\roslyn\System.Collections.Immutable.dll
+E:\COTUCA\3º semestre\ASP\loja com prodoutos\projetoLoja-master\Loja\Loja\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\COTUCA\3º semestre\ASP\loja com prodoutos\projetoLoja-master\Loja\Loja\bin\roslyn\System.IO.FileSystem.dll
+E:\COTUCA\3º semestre\ASP\loja com prodoutos\projetoLoja-master\Loja\Loja\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\COTUCA\3º semestre\ASP\loja com prodoutos\projetoLoja-master\Loja\Loja\bin\roslyn\System.Reflection.Metadata.dll
+E:\COTUCA\3º semestre\ASP\loja com prodoutos\projetoLoja-master\Loja\Loja\bin\roslyn\vbc.exe
+E:\COTUCA\3º semestre\ASP\loja com prodoutos\projetoLoja-master\Loja\Loja\bin\roslyn\vbc.exe.config
+E:\COTUCA\3º semestre\ASP\loja com prodoutos\projetoLoja-master\Loja\Loja\bin\roslyn\vbc.rsp
+E:\COTUCA\3º semestre\ASP\loja com prodoutos\projetoLoja-master\Loja\Loja\bin\roslyn\VBCSCompiler.exe
+E:\COTUCA\3º semestre\ASP\loja com prodoutos\projetoLoja-master\Loja\Loja\bin\roslyn\VBCSCompiler.exe.config
+E:\COTUCA\3º semestre\ASP\loja com prodoutos\projetoLoja-master\Loja\Loja\bin\Loja.dll.config
+E:\COTUCA\3º semestre\ASP\loja com prodoutos\projetoLoja-master\Loja\Loja\bin\Loja.dll
+E:\COTUCA\3º semestre\ASP\loja com prodoutos\projetoLoja-master\Loja\Loja\bin\Loja.pdb
+E:\COTUCA\3º semestre\ASP\loja com prodoutos\projetoLoja-master\Loja\Loja\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\COTUCA\3º semestre\ASP\loja com prodoutos\projetoLoja-master\Loja\Loja\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\COTUCA\3º semestre\ASP\loja com prodoutos\projetoLoja-master\Loja\Loja\obj\Debug\Loja.csprojResolveAssemblyReference.cache
+E:\COTUCA\3º semestre\ASP\loja com prodoutos\projetoLoja-master\Loja\Loja\obj\Debug\Loja.dll
+E:\COTUCA\3º semestre\ASP\loja com prodoutos\projetoLoja-master\Loja\Loja\obj\Debug\Loja.pdb
